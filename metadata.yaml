@@ -1,0 +1,38 @@
+_repo: '----------------------------------------------------------------------------_4100'
+_version: 0.0.1
+alternative_title: 'Vision and Transformation : An Introduction to the Buddha''s Noble
+  Eightfold Path'
+contributor:
+  translator:
+    agent_name: Doikas, Spiros
+    alias: Δόικας, Σπύρος
+    gutenberg_agent_id: '1391'
+    url: http://www.gutenberg.org/2009/agents/1391
+creator:
+  author:
+    agent_name: Sangharakshita, Bhikshu
+    aliases:
+    - Sangharakshita, Bikshu
+    - Lingwood, D. P. E. (Dennis P. E.)
+    - Lingwood, Dennis
+    - Sangharakshita, Urgyen
+    birthdate: 1925
+    gutenberg_agent_id: '1390'
+    url: http://www.gutenberg.org/2009/agents/1390
+    wikipedia: http://en.wikipedia.org/wiki/Sangharakshita
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4100'
+language: el
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Sangharakshita, Bhikshu, 1925-'
+- !lcc 'BQ'
+- !lcsh 'Religious life -- Buddhism'
+- GITenberg
+title: 'Όραμα και Μεταμόρφωση : Μια εισαγωγή στο Ευγενές Οκταπλό Μονοπάτι του Βούδδα'
+url: http://www.gutenberg.org/ebooks/4100
