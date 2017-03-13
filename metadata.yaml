@@ -1,5 +1,5 @@
 _repo: '----------------------------------------------------------------------------_4100'
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Vision and Transformation : An Introduction to the Buddha''s Noble
   Eightfold Path'
 contributor:
@@ -8,6 +8,9 @@ contributor:
     alias: Δόικας, Σπύρος
     gutenberg_agent_id: '1391'
     url: http://www.gutenberg.org/2009/agents/1391
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sangharakshita, Bhikshu
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1390
     wikipedia: http://en.wikipedia.org/wiki/Sangharakshita
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4100#----------------------------------------------------------------------------
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
